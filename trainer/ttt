@@ -1,0 +1,6 @@
+<?php
+
+$cnn2=mysqli_connect("localhost","root","","dbproject");
+
+
+?>
